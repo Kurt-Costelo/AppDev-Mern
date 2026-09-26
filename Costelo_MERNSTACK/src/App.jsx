@@ -1,4 +1,4 @@
-import Card from "./components/identityCard";
+import Card from "./components/card";
 
 function App() {
   return (
